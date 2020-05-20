@@ -1,0 +1,10 @@
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\bin\Debug\Lib4_1.exe.config
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\bin\Debug\Lib4_1.exe
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\bin\Debug\Lib4_1.pdb
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.csprojAssemblyReference.cache
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.Form1.resources
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.Properties.Resources.resources
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.csproj.GenerateResource.cache
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.csproj.CoreCompileInputs.cache
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.exe
+H:\Проекты\Dev\С#\20.05.2020\Lib4_1\Lib4_1\obj\Debug\Lib4_1.pdb

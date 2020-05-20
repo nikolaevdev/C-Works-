@@ -23,15 +23,17 @@ namespace Lib4_1
             double xk = Convert.ToDouble(textBox2.Text);
             double dx = Convert.ToDouble(textBox3.Text);
             double a = Convert.ToDouble(textBox4.Text);
+            double b = Convert.ToDouble(textBox5.Text);
+            double c = Convert.ToDouble(textBox6.Text);
 
-            textBox5.Text = "Работу выполнил ст. Николаев М.В" +
+            textBox7.Text = "Работу выполнил ст. Николаев М.В" +
                 Environment.NewLine;
 
             double x = x0;
             while (x <= (xk + dx / 2))
             {
-                double y = a * Math.Log(x);
-                textBox5.Text += "x= " + Convert.ToString(x) +
+                double y = ((1/(Math.Pow(10, 2)))*b*c)/x+Math.Cos(Math.Sqrt(Math.Pow(a, 3)*x));
+                textBox7.Text += "x= " + Convert.ToString(x) +
                     "; y=" + Convert.ToString(y) +
                     Environment.NewLine;
                 x = x + dx;
