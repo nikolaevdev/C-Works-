@@ -1,0 +1,10 @@
+H:\Проекты\Dev\С#\29.04.2020\2\2\bin\Debug\2.exe.config
+H:\Проекты\Dev\С#\29.04.2020\2\2\bin\Debug\2.exe
+H:\Проекты\Dev\С#\29.04.2020\2\2\bin\Debug\2.pdb
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\2.csprojAssemblyReference.cache
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\_2.Form1.resources
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\_2.Properties.Resources.resources
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\2.csproj.GenerateResource.cache
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\2.exe
+H:\Проекты\Dev\С#\29.04.2020\2\2\obj\Debug\2.pdb

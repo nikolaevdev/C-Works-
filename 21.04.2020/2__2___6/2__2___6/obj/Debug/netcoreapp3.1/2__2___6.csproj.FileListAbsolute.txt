@@ -1,0 +1,13 @@
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.csprojAssemblyReference.cache
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.csproj.CoreCompileInputs.cache
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.AssemblyInfoInputs.cache
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.AssemblyInfo.cs
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\bin\Debug\netcoreapp3.1\2__2___6.exe
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\bin\Debug\netcoreapp3.1\2__2___6.deps.json
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\bin\Debug\netcoreapp3.1\2__2___6.runtimeconfig.json
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\bin\Debug\netcoreapp3.1\2__2___6.runtimeconfig.dev.json
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\bin\Debug\netcoreapp3.1\2__2___6.dll
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\bin\Debug\netcoreapp3.1\2__2___6.pdb
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.dll
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.pdb
+H:\Проекты\Dev\С#\21.04.2020\2__2___6\2__2___6\obj\Debug\netcoreapp3.1\2__2___6.genruntimeconfig.cache

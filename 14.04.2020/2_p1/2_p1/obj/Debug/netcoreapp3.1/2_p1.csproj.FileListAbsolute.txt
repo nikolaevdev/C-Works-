@@ -1,0 +1,13 @@
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\bin\Debug\netcoreapp3.1\2_p1.exe
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\bin\Debug\netcoreapp3.1\2_p1.deps.json
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\bin\Debug\netcoreapp3.1\2_p1.runtimeconfig.json
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\bin\Debug\netcoreapp3.1\2_p1.runtimeconfig.dev.json
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\bin\Debug\netcoreapp3.1\2_p1.dll
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\bin\Debug\netcoreapp3.1\2_p1.pdb
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.csprojAssemblyReference.cache
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.csproj.CoreCompileInputs.cache
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.AssemblyInfoInputs.cache
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.AssemblyInfo.cs
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.dll
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.pdb
+H:\Проекты\Dev\С#\14.04.2020\2_p1\2_p1\obj\Debug\netcoreapp3.1\2_p1.genruntimeconfig.cache
